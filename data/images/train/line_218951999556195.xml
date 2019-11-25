@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>line_218951999556195.jpg</filename>
+	<path>C:\Users\Hazymist\Downloads\test+trainเสดแล้ว\test+train( label 5) +add 40 papercup + ลดไฟล์ภาพ + label\train\line_218951999556195.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Others</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>479</ymin>
+			<xmax>1383</xmax>
+			<ymax>1361</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>AlCan</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1490</xmin>
+			<ymin>1392</ymin>
+			<xmax>1884</xmax>
+			<ymax>1536</ymax>
+		</bndbox>
+	</object>
+</annotation>
