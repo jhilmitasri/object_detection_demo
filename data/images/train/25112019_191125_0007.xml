@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>25112019_191125_0007.jpg</filename>
+	<path>C:\Users\Hazymist\Desktop\New folder\train\25112019_191125_0007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PaperCup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>365</ymin>
+			<xmax>677</xmax>
+			<ymax>861</ymax>
+		</bndbox>
+	</object>
+</annotation>
