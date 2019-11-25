@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>line_217519094460566.jpg</filename>
+	<path>C:\Users\Hazymist\Downloads\test+train( label 5) +add 40 papercup + à¸¥à¸à¹à¸à¸¥à¹à¸ à¸²à¸ + label-20191124T023351Z-001\test+train( label 5) +add 40 papercup + ลดไฟล์ภาพ + label\train\line_217519094460566.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PlasticBottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>558</ymin>
+			<xmax>304</xmax>
+			<ymax>1332</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>AlCan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>785</xmin>
+			<ymin>926</ymin>
+			<xmax>1111</xmax>
+			<ymax>1490</ymax>
+		</bndbox>
+	</object>
+</annotation>
